@@ -26,7 +26,7 @@ app.listen()
 
 ## How?
 
-`theodore` uses [`turbo-http`](https://github.com/mafintosh/turbo-http) under the hood and adds a router and similar API to other http frameworks. It also adds some convenience methods that allow you to send JSON responses by using the [`fast-safe-stringify`](https://www.npmjs.com/package/fast-safe-stringify) package. When parsing JSON data it is using [`fast-json-parse`](https://www.npmjs.com/package/fast-json-parse).
+`theodore` uses [`turbo-http`](https://github.com/mafintosh/turbo-http) under the hood and adds a router (I am changing this to use find-my-way rather than server-router) and similar API to other http frameworks. It also adds some convenience methods that allow you to send JSON responses by using the [`fast-safe-stringify`](https://www.npmjs.com/package/fast-safe-stringify) package. <del>When parsing JSON data it is using [`fast-json-parse`](https://www.npmjs.com/package/fast-json-parse).</del>
 
 ## API
 
