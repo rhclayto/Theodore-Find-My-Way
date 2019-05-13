@@ -1,6 +1,6 @@
 {
-  "name": "theodore",
-  "version": "1.5.1",
+  "name": "Theodore-Find-My-Way",
+  "version": "1.50.0",
   "description": "http framework",
   "main": "index.js",
   "dependencies": {
@@ -18,16 +18,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emkay/theodore.git"
+    "url": "git+https://github.com/rhclayto/Theodore-Find-My-Way.git"
   },
   "keywords": [],
   "author": {
-    "name": "Michael Matuzak",
-    "email": "mmatuzak@gmail.com"
+    "name": "HC",
+    "email": "h@tellingua.com"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/emkay/theodore/issues"
-  },
-  "homepage": "https://github.com/emkay/theodore#readme"
+  "homepage": "https://github.com/rhclayto/Theodore-Find-My-Way#readme"
 }
