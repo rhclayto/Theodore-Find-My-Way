@@ -66,7 +66,7 @@ class Theodore {
 
         switch (type) {
           case 'application/json':
-            const parsedRes = jsonParse(b);
+            const parsedRes = JSON.parse(b);
             req.body = parsedRes.value || parsedRes.err;
             break;
           case 'application/x-www-form-urlencoded':
